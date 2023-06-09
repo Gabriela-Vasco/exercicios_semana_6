@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins';
+    margin: 0;
+    background-color: #efffd6;
+  }
+  
+
+  header,
+  footer {
+    margin: 16px 0;
+  }
+
+  form {
+    margin-bottom: 16px;
+  }
+  
